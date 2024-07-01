@@ -1,0 +1,51 @@
+commodity_name	discount
+BOkGS	
+bdgOU	0.87
+fRjHE	
+pClRA	0.9
+qKGyr	
+xFfKE	
+IzGAS	
+BOkGS	
+fRjHE	
+pClRA	
+bdgOU	
+fRjHE	0.55
+xFfKE	
+BOkGS	
+pClRA	0.75
+xFfKE	0.74
+xFfKE	0.76
+dQTuS	0.92
+fRjHE	0.8
+fRjHE	0.7
+dQTuS	0.61
+BOkGS	0.63
+WCTYn	
+dQTuS	0.83
+IzGAS	
+pClRA	
+qKGyr	
+bdgOU	
+pClRA	0.51
+BOkGS	
+bdgOU	
+xFfKE	0.58
+BOkGS	
+WCTYn	0.61
+IzGAS	
+Mwilu	
+Mwilu	0.64
+xFfKE	
+qKGyr	
+dQTuS	0.73
+bdgOU	0.6
+bdgOU	0.88
+WCTYn	
+BOkGS	
+qKGyr	0.74
+Mwilu	0.77
+qKGyr	0.5
+WCTYn	0.61
+dQTuS	0.54
+fRjHE	0.59

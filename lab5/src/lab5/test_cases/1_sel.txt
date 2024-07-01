@@ -1,0 +1,21 @@
+commodity_name	discount
+kEOBe	0.5
+TqKBW	
+TqKBW	
+gJdAp	0.5
+kEOBe	
+dfzDy	0.6
+dfzDy	
+gJdAp	0.8
+dfzDy	
+gJdAp	0.6
+dfzDy	
+gZEdt	0.7
+kEOBe	
+gZEdt	0.9
+gZEdt	
+kEOBe	0.9
+dfzDy	
+TqKBW	
+dfzDy	0.8
+TqKBW	

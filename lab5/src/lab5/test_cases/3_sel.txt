@@ -1,0 +1,21 @@
+commodity_name	discount
+DfBSu	
+RUFcd	0.8
+VlfSF	0.6
+VlfSF	
+RUFcd	0.7
+dwMyB	0.6
+RGXpw	
+RUFcd	0.7
+dwMyB	
+RGXpw	
+RGXpw	
+dwMyB	0.9
+dwMyB	
+RGXpw	
+RUFcd	
+DfBSu	0.8
+VlfSF	
+dwMyB	0.5
+DfBSu	0.6
+DfBSu	0.7

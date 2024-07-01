@@ -1,0 +1,51 @@
+commodity_name	discount
+rZiDm	
+pSAXP	0.66
+beZqQ	
+gqfPM	
+pSAXP	0.53
+beZqQ	0.73
+beZqQ	0.53
+RoeYP	
+pSAXP	0.91
+LExhf	
+VvSIn	0.83
+XGDmM	0.75
+rzwKs	0.75
+rzwKs	
+RSUXM	0.93
+XGDmM	0.81
+YRjbK	0.72
+pSAXP	0.8
+XGDmM	
+LExhf	
+rZiDm	
+RoeYP	0.86
+gqfPM	
+gqfPM	0.91
+YRjbK	
+rzwKs	0.51
+rzwKs	0.75
+rzwKs	0.54
+VvSIn	0.91
+VvSIn	
+rZiDm	0.67
+RSUXM	
+rZiDm	
+LExhf	0.93
+VvSIn	0.9
+RSUXM	0.71
+YRjbK	
+rZiDm	0.8
+RoeYP	0.53
+RSUXM	
+rzwKs	0.69
+XGDmM	
+RSUXM	
+rZiDm	0.66
+pSAXP	
+RSUXM	
+pSAXP	0.51
+VvSIn	
+RoeYP	
+VvSIn	0.5

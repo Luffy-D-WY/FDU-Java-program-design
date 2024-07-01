@@ -1,0 +1,6 @@
+0 day : turnover:114.4
+1 day : turnover:214.22
+2 day : turnover:392.95
+3 day : turnover:580.52
+4 day : turnover:613.42
+5 day : turnover:663.58

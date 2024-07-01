@@ -1,0 +1,21 @@
+commodity_name	discount
+udsyq	0.9
+RtEhb	0.8
+RtEhb	0.7
+RtEhb	
+qwzto	0.8
+VEkui	
+RtEhb	
+udsyq	
+qwzto	0.9
+qwzto	
+QwnWV	0.7
+qwzto	
+VEkui	0.7
+VEkui	
+udsyq	0.7
+RtEhb	
+RtEhb	0.9
+QwnWV	0.5
+VEkui	0.6
+udsyq	0.8
